@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolae77
 - 👀 I’m interested in Creating web Pages (Python-Django)
-- 🌱 I’m currently learning at University of Roehampton
+- 🌱 I’m currently learning at University of Roehampton(Computing and Technology)
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me: nicolaecaldarasan1983@gmail.com 
 
