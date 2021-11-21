@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicolae77
-- 👀 I’m interested in Creating web Pages (NodeJS, Express, MongoDB, HTML, CSS, JS)
+- 👀 I’m interested in Creating web Pages (NodeJS, Express, MongoDB, Mongoose, HTML, CSS, JS)
 - 🌱 I’m currently learning at University of Roehampton(Computing Technology)
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me: nicolaecaldarasan1983@gmail.com 
