@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicolae77
-- 👀 I’m interested in Creating web Pages (Django, Python,NodeJS, Express, MongoDB, Mongoose, HTML, CSS, JS, Bootstrap, jQuery)
+- 👀 I’m interested in Creating web Pages (Django, Flask, Python,NodeJS, Express, MongoDB, Mongoose, HTML, CSS, JS, Bootstrap, jQuery)
 - 🌱 I’m currently a graduate of the University of Roehampton BSc(Computing Technologies)
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me: nicolaecaldarasan1983@gmail.com 
