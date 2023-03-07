@@ -4,8 +4,9 @@
 - 🌱 I’m currently a graduate of the University of Roehampton BSc(Computing Technologies)
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me: nicolaecaldarasan1983@gmail.com 
-- https://replit.com/@Nicolae77
-- http://nicolae.pythonanywhere.com/
+- 📱 mob: +447448777242
+- 🕸️ https://replit.com/@Nicolae77
+- 🕸️ http://nicolae.pythonanywhere.com/
 
 
 <!---
