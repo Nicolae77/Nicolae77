@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicolae77
-- 🤝 I’m interested in Creating web Pages (Django, Flask, Python, Rest API, AWS, Docker, NodeJS, Express, MongoDB, Mongoose, HTML, CSS, JS, Bootstrap, jQuery, PHP, MySQL)
+- 🤝 I’m interested in Creating web Pages (Django, Flask, Python, Rest API, AWS, Docker, NodeJS, Express, MongoDB, Mongoose, HTML, CSS, JS, React, Bootstrap, jQuery, PHP, MySQL)
 - 👨‍💻 Web developer
 - 🌱 I’m currently a graduate of the University of Roehampton BSc(Computing Technologies)
 - 💞️ I’m looking to collaborate on diverse projects
